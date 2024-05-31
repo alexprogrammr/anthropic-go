@@ -1,5 +1,7 @@
 # anthropic-go
 
+[![CI](https://github.com/alexprogrammr/anthropic-go/actions/workflows/ci.yml/badge.svg)](https://github.com/alexprogrammr/anthropic-go/actions/workflows/ci.yml)
+
 Unofficial Anthropic API client for Go.
 
 ## Installation
