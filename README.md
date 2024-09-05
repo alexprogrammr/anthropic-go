@@ -2,9 +2,9 @@
 
 [![CI](https://github.com/alexprogrammr/anthropic-go/actions/workflows/ci.yml/badge.svg)](https://github.com/alexprogrammr/anthropic-go/actions/workflows/ci.yml)
 
-Unofficial Anthropic API client for Go.
+> **_NOTE:_** archived due to release of the official SDK https://github.com/anthropics/anthropic-sdk-go.
 
-Please note, it may not be fully functional or up-to-date. If you have any issues, please open an issue or submit a pull request.
+Anthropic API client for Go.
 
 ## Installation
 
